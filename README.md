@@ -17,6 +17,12 @@ This project uses the `students` dataset from a 2018 survey conducted at a Japan
 | `toas`          | Acculturative stress score (ASISS total)                  |
 
 
+## Key Questions
+
+Do students' mental health improve over time?
+
+Does social connectedness increase with longer stay?
+
 
 ## Results
 
