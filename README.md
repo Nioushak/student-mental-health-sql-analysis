@@ -1,5 +1,3 @@
-![Illustration of silhouetted heads](mentalhealth.jpg)
-
 ## Dataset
 
 This project uses the `students` dataset from a 2018 survey conducted at a Japanese international university (published the following year). The study examined mental health outcomes in international students and highlighted **social connectedness** and **acculturative stress** as predictors of **depression**.
